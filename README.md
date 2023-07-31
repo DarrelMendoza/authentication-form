@@ -1,4 +1,4 @@
-# **Authentication Form Application**
+# **Simple Authentication Form Application**
 
 This application uses Vue 2 and Bootstrap on the frontend for an interactive and responsive UI. The backend is built with Laravel which uses MySQL for data management.
 
