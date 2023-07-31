@@ -95,16 +95,32 @@ Visit http://localhost:8080/ in your browser. Your application should be up and 
 Below are some more screenshots demonstrating the features of the application.
 
 ### **Main Page**
-![main](https://github.com/YourUsername/authentication-form/assets/88825804/c5364d87-c2d6-4c41-8268-bc8db461a864)
+![main page](https://github.com/DarrelMendoza/authentication-form/assets/88825804/b949ac22-f181-428f-a291-a00fef203dab)
 
 ### **Registration Form**
-![registration](https://github.com/YourUsername/authentication-form/assets/88825804/e12b7008-b9b9-4d82-a3df-6a35ac7d5440)
+![registration](https://github.com/DarrelMendoza/authentication-form/assets/88825804/d6534bc0-220c-406f-bae1-307f3a007b3f)
 
 ### **Login Form**
-![login](https://github.com/YourUsername/authentication-form/assets/88825804/09f42ed4-68d4-4355-9642-34d6eae891ad)
+![login](https://github.com/DarrelMendoza/authentication-form/assets/88825804/a60f191f-72aa-4bfc-a171-b7c955330683)
 
 ### **Forgot Password**
-![forgot_password](https://github.com/YourUsername/authentication-form/assets/88825804/bae250ed-4554-4a78-9fb4-47a2c32c1d2d)
+![change password](https://github.com/DarrelMendoza/authentication-form/assets/88825804/070507a0-d535-4b93-9dfb-e33a99ab325d)
+
+### **Create a Post**
+![create post](https://github.com/DarrelMendoza/authentication-form/assets/88825804/be240eac-fbc9-4a81-9bdc-39bcc1dafd45)
+
+### **Edit a Post**
+![edit post](https://github.com/DarrelMendoza/authentication-form/assets/88825804/efb5d286-3c94-47b5-9c9d-78ec4afeced5)
+
+### **Delete a Post**
+![delete post](https://github.com/DarrelMendoza/authentication-form/assets/88825804/a998b0cc-c03e-42b7-94ed-b71299d863f4)
+
+### **Edit Account Details**
+![edit details](https://github.com/DarrelMendoza/authentication-form/assets/88825804/9297abaa-1631-40f1-b2f5-a1d2fffb8ad0)
+
+### **Edit Password**
+![reset password](https://github.com/DarrelMendoza/authentication-form/assets/88825804/5b317f3b-79b6-4a6b-a0ff-0490fea18278)
+
 
 ## **Acknowledgements**
 
