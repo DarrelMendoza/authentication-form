@@ -93,7 +93,12 @@ export default {
       })
       .then(response => {
         if (response.data.status) {
-          alert('Password updated successfully');
+          this.$toasted.show("Password updated successfully", {
+                theme: "outline",
+                position: "top-right",
+                duration: 2000,
+                type: "success"
+              });
         }
       })
       .catch(error => {
