@@ -103,8 +103,8 @@ Below are some more screenshots demonstrating the features of the application.
 ### **Login Form**
 ![login](https://github.com/DarrelMendoza/authentication-form/assets/88825804/a60f191f-72aa-4bfc-a171-b7c955330683)
 
-### **Forgot Password**
-![change password](https://github.com/DarrelMendoza/authentication-form/assets/88825804/070507a0-d535-4b93-9dfb-e33a99ab325d)
+### **Reset Password**
+![reset password](https://github.com/DarrelMendoza/authentication-form/assets/88825804/5b317f3b-79b6-4a6b-a0ff-0490fea18278)
 
 ### **Create a Post**
 ![create post](https://github.com/DarrelMendoza/authentication-form/assets/88825804/be240eac-fbc9-4a81-9bdc-39bcc1dafd45)
@@ -118,8 +118,8 @@ Below are some more screenshots demonstrating the features of the application.
 ### **Edit Account Details**
 ![edit details](https://github.com/DarrelMendoza/authentication-form/assets/88825804/9297abaa-1631-40f1-b2f5-a1d2fffb8ad0)
 
-### **Edit Password**
-![reset password](https://github.com/DarrelMendoza/authentication-form/assets/88825804/5b317f3b-79b6-4a6b-a0ff-0490fea18278)
+### **Edit Account Password**
+![change password](https://github.com/DarrelMendoza/authentication-form/assets/88825804/070507a0-d535-4b93-9dfb-e33a99ab325d)
 
 
 ## **Acknowledgements**
