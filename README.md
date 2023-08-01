@@ -4,7 +4,7 @@ This application uses Vue 2 and Bootstrap on the frontend for an interactive and
 
 ## **Live Demo**
 
-For a live demo of the application, please visit: [**https://your-authentication-form.web.app/**](https://your-authentication-form.web.app/)
+For a live demo of the application, please visit: [**https://darrels-authentication-form.web.app**](https://darrels-authentication-form.web.app)
 
 ![main page](https://github.com/DarrelMendoza/authentication-form/assets/88825804/12506d53-77d1-4a16-bc6b-f6b8ca60c6ad)
 
